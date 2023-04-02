@@ -1,2 +1,2 @@
 # Codewars
-Completed Codewars challenges
+A repo for completed Codewars challenges.
